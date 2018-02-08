@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<properties>
+
+	<!-- Model created for a local, embedded index 
+	<parameter name="Model" value="org.topicquests.persist.json.es.ElasticSearchEmbeddedModel" /> 
+	-->
+</properties>
